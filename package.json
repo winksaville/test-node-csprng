@@ -10,10 +10,11 @@
     "test": "alsatian build/test.js"
   },
   "devDependencies": {
+    "@types/csprng": "^0.1.0",
     "alsatian": "^1.3.0",
     "typescript": "^2.2.1"
   },
   "dependencies": {
-    "csprng": "https://github.com/winksaville/node-csprng"
+    "csprng": "^0.1.2"
   }
 }

@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@types/csprng@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@types/csprng/-/csprng-0.1.0.tgz#da14d59c7f7247570ab1cd5bee3ac61150d97667"
+
 "@types/glob@^5.0.30":
   version "5.0.30"
   resolved "https://registry.yarnpkg.com/@types/glob/-/glob-5.0.30.tgz#1026409c5625a8689074602808d082b2867b8a51"
@@ -75,9 +79,9 @@ core-util-is@~1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/core-util-is/-/core-util-is-1.0.2.tgz#b5fd54220aa2bc5ab57aab7140c940754503c1a7"
 
-"csprng@https://github.com/winksaville/node-csprng":
-  version "0.1.3"
-  resolved "https://github.com/winksaville/node-csprng#108aef9a9803a6206e8d0f5540db07c06f6c0940"
+csprng@^0.1.2:
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/csprng/-/csprng-0.1.2.tgz#4bc68f12fa368d252a59841cbaca974b18ab45e2"
   dependencies:
     sequin "*"
 
